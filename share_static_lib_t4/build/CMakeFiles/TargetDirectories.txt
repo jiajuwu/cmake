@@ -1,0 +1,2 @@
+/home/vagrant/cmake/share_static_lib_t4/build/lib/CMakeFiles/hello_static.dir
+/home/vagrant/cmake/share_static_lib_t4/build/lib/CMakeFiles/hello.dir

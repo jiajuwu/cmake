@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vagrant/cmake/share_static_lib_t4/lib/hello.c
+hello.h
+/home/vagrant/cmake/share_static_lib_t4/lib/hello.h
+
+/home/vagrant/cmake/share_static_lib_t4/lib/hello.h
+stdio.h
+-
+
